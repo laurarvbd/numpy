@@ -6,6 +6,7 @@
     https://dev.azure.com/numpy/numpy/_build/latest?definitionId=5)
 [![codecov](https://codecov.io/gh/numpy/numpy/branch/master/graph/badge.svg)](
     https://codecov.io/gh/numpy/numpy)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fnumpy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fnumpy?ref=badge_shield)
 
 NumPy is the fundamental package needed for scientific computing with Python.
 
@@ -47,3 +48,7 @@ please contact us through the mailing list.
 
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fnumpy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fnumpy?ref=badge_large)
